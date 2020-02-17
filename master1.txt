@@ -1,0 +1,2 @@
+สร้างไฟล์ master1.txt mujbranch master1
+แล้ว save
